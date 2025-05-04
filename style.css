@@ -6,9 +6,11 @@
 }
 
 body{
-    background-color: beige;
-    
+    background-color: bisque;
+    max-width: 1000px;
+    text-align: center;
+    margin: 0px auto;
 }
 header{
-    text-align: center;
+    color: red;
 }
